@@ -1,2 +1,2 @@
 # nanovolt.github.io
-[Rock paper Scissors](https://nanovolt.github.io/rps/)
+[Rock Paper Scissors](https://nanovolt.github.io/rps/)
