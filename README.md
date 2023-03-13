@@ -1,2 +1,2 @@
 # nanovolt.github.io
-[Rock Paper Scissors](https://nanovolt.github.io/rps/)
+[The Odin Project](https://nanovolt.github.io/theodinproject/)
